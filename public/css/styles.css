@@ -1,9 +1,9 @@
 #login {
-    background: linear-gradient(120deg, #4c79d3 44.9%, #ffffff 45%) no-repeat fixed;
+    background: linear-gradient(120deg, #04724D 44.9%, #ffffff 45%) no-repeat fixed;
 }
 
 #app {
-    background: linear-gradient(120deg, #ffffff 44.9%, #4c79d3 45%) no-repeat fixed;
+    background: linear-gradient(120deg, #ffffff 44.9%, #04724D 45%) no-repeat fixed;
 }
 
 header {
@@ -17,7 +17,7 @@ header {
 }
 
 .color-secondary {
-    color: #4c79d3;
+    color: #04724D;
 }
 
 .icon-detail {
