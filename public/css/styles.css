@@ -47,7 +47,7 @@ header {
 
 .button-login:hover,
 .button-default:hover {
-    background: #4c79d3;
+    background: #04724D;
     color: #ffffff;
 }
 
@@ -73,8 +73,8 @@ header {
 
 .button-float:hover {
     background-color: #ffffff;
-    border: 2px solid #4c79d3;
-    color: #4c79d3;
+    border: 2px solid #04724D;
+    color: #04724D;
 }
 
 .button-cancel {
@@ -87,7 +87,7 @@ header {
 }
 
 .link-default:hover {
-    color: #4c79d3;
+    color: #04724D;
 }
 
 .info {
